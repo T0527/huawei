@@ -7,11 +7,15 @@
         margin: 0 auto;
         // background: green;
         .left{
-            width: 541.73px;
+            // width: 541.73px;
+            height: 36px;
             background: springgreen;
             li{
                 float: left;
-            }
+            } 
+        }
+        .right{
+            // width: 480.69px;
         }
     }
 }
